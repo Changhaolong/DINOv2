@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.Trash-0/
+.autodl/
+*.pth
+*.pt
+*.rar
+*.zip
+OpenDataLab*
+UCMerced*
+WHU-RS19*
+RS_images*
+*_exp_fig/
